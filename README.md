@@ -310,10 +310,6 @@ The order agent records a `shadow` lifecycle entry in `results/logs/<run>_order_
 - **Polymarket Gamma API Docs**  
   *For technical reference on market data structure and reliability.*
 
-- **MIT Prediction Market Database**  
-  *For historical, resolved outcomes across research and live markets.*
-
-
 
 ## Why It Matters
 
