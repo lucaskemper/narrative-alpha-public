@@ -320,7 +320,6 @@ The order agent records a `shadow` lifecycle entry in `results/logs/<run>_order_
 ## Notes
 
 - LLMs are not reliable oracles. Priors are clipped and adjusted for realism.
-- This is not a trading system, but a research tool for sentiment monitoring and signal experimentation.
 - Certain categories (e.g., celebrity gossip, meme ETFs) are prone to hallucinated priors — these are flagged in postprocessing.
 
 ## Future Improvements
