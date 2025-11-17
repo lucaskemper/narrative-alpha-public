@@ -325,7 +325,5 @@ The order agent records a `shadow` lifecycle entry in `results/logs/<run>_order_
 ## Future Improvements
 
 - Expand calibration notebook with bootstrapped confidence intervals
-- Adaptive ensemble priors (GPT/Claude/local models) with category-aware weighting
-- Portfolio simulation with execution/slippage modeling
 - Regime change detection and stability monitoring for alpha decay
 - Online weight updating during intraday runs and reinforcement for active learning
